@@ -8,5 +8,3 @@ Hello, my name is Fahmi Aksan Nugroho, but simply call me Fahmi
 ### 📫 Lets Connect Me On
 Drop me a message at
 My <a href="https://www.linkedin.com/in/fahmi-aksan-nugroho-090b452a2/">Linkedin</a> — my <a href="https://www.instagram.com/fahmi_aksan_nugroho/">Instagram</a>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fahmiaksan)](https://git.io/streak-stats)
