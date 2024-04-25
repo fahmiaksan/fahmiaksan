@@ -2,9 +2,9 @@
 
 Hello, my name is Fahmi Aksan Nugroho, but simply call me Fahmi
 
-- 🌱 I’m currently learning <b>CI/CD</b> at <a href="dicoding.com">dicoding</a>.
-- 🏫 Currently i'am a high school student at SMK Bhakti Praja Dukuhwaru, eager to learn and contribute to the evolving landscape of technology.
-
+- 🌱 I’m currently learning <b>React Fundamental</b> at <a href="dicoding.com">dicoding</a>.
+- 🏫 Currently i am a fresh graduate from a vocational school with major in computer and network engineering..
+- 👩🏻‍💻 Code everytime...
 ### 📫 Lets Connect Me On
 Drop me a message at
 My <a href="https://www.linkedin.com/in/fahmi-aksan-nugroho-090b452a2/">Linkedin</a> — my <a href="https://www.instagram.com/fahmi_aksan_nugroho/">Instagram</a>
